@@ -2,6 +2,8 @@
 
 A modern, responsive personal portfolio website showcasing my skills, projects, and experience as an **AI/ML Engineer & Full-Stack Developer**.
 
+**[🔴 Live Demo](https://ningappa-hub.github.io/my-portfolio/)**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,7 +24,7 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 
 ```
 Portfolio/
-├── portfolio.html   # Main HTML structure
+├── index.html       # Main HTML structure
 ├── portfolio.css    # All styles (variables, layout, animations, responsive)
 ├── portfolio.js     # Scroll reveal & smooth scroll logic
 ├── .gitignore       # Git ignore rules
@@ -50,9 +52,9 @@ Portfolio/
 2. **Open in browser**
    ```bash
    # Simply open the HTML file
-   start portfolio.html     # Windows
-   open portfolio.html      # macOS
-   xdg-open portfolio.html  # Linux
+   start index.html     # Windows
+   open index.html      # macOS
+   xdg-open index.html  # Linux
    ```
 
    No build tools or dependencies required — it's pure HTML/CSS/JS.
